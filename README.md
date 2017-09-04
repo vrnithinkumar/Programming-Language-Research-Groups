@@ -4,4 +4,4 @@ List and links to programming language research groups across different universi
 2) [Compiler Design Lab at Saarland University](http://compilers.cs.uni-saarland.de)
 3) [Chair of Programming Methodology, ETH Zurich](http://www.pm.inf.ethz.ch)
 4) [Functional Programming, Chalmers](http://www.chalmers.se/en/departments/cse/organisation/fp/Pages/default.aspx)
-5 [Programming Languages Research Group, TU Delft](http://eelcovisser.org/wiki/group)
+5) [Programming Languages Research Group, TU Delft](http://eelcovisser.org/wiki/group)
