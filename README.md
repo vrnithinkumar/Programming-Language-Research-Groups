@@ -8,3 +8,4 @@ List and links to programming language research groups across different universi
 6) [Software Technology Group, TU Darmstadt](http://www.stg.tu-darmstadt.de/research/index.en.jsp)
 7) [Programming Language at University of Maryland, UMD College Park](http://www.cs.umd.edu/projects/PL/)
 8) [PLASMA, University of Massachusetts Amherst](https://plasma.cs.umass.edu)
+9) [Programming Research Laboratory, Northeastern University](http://prl.ccs.neu.edu)
