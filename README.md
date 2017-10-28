@@ -9,3 +9,4 @@ List and links to programming language research groups across different universi
 7) [Programming Language at University of Maryland, UMD College Park](http://www.cs.umd.edu/projects/PL/)
 8) [PLASMA, University of Massachusetts Amherst](https://plasma.cs.umass.edu)
 9) [Programming Research Laboratory, Northeastern University](http://prl.ccs.neu.edu)
+10) [Programming Languages and Verification at the University of Colorado Boulder](http://plv.colorado.edu)
